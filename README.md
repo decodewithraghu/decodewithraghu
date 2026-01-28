@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently leading the architectural direction for Kaiser Permanente, focusing on transforming complex business requirements into scalable technical solutions.
+Currently leading the architectural design and development as System Architect for Kaiser Permanente, focusing on transforming complex business requirements into scalable technical solutions.
 
 Software Development: Spearheading the design of microservices using Node.js, with a focus on clean architecture and event-driven communication via Kafka.
 
