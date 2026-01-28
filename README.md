@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a Software / System Architect with over a decade of experience building high-scale, distributed systems that solve complex business challenges. My expertise lies at the intersection of robust backend engineering and modern cloud infrastructure, with a deep focus on Node.js, microservices, and event-driven architectures using Kafka.<br><br>Throughout my career, I have specialized in transforming legacy monoliths into scalable, resilient platforms. I am passionate about engineering excellence, from implementing functional programming patterns to optimizing database performance with vector and relational technologies. I thrive on leading cross-functional teams, mentoring engineers, and bridging the gap between technical strategy and business value.
+Currently leading the architectural direction for Kaiser Permanente, focusing on transforming complex business requirements into scalable technical solutions.
+
+Software Development: Spearheading the design of microservices using Node.js, with a focus on clean architecture and event-driven communication via Kafka.
+
+Performance Engineering: Implementing deep-dive telemetry and observability tools to track and optimize API response times. Expert in identifying bottlenecks within distributed systems and optimizing database performance across relational and vector (PGVector, Milvus) technologies.
+
+Test Automation: Architecting automated quality frameworks that integrate directly into CI/CD pipelines. This includes developing custom tooling for performance benchmarking and resilience testing (e.g., Bulkhead and Retry patterns) to ensure 99.9% system uptime.
+
+Innovation: Actively exploring the integration of AI Agents and RAG-based architectures to enhance product capabilities."
 
 
 ## 🌐 Socials:
